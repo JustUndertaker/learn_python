@@ -14,7 +14,7 @@ class people:
         self.__weight = w
     def speak(self):
         print("%s 说: 我 %d 岁。" %(self.name,self.age))
- 
+ #test
 # 实例化类
 p = people('runoob',10,30)
 p.speak()
