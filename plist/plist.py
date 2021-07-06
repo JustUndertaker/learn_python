@@ -71,7 +71,7 @@ if __name__ == '__main__':
     info=r'''
         Name:    Plist图集转换小图工具
         use:     用于将cocos使用的plist图集逆转换成小图
-        Author:  Liushun
+        Author:  
         Time:    2021-4-27
         input:   输入需要转换的图集名（也可以是绝对路径），不包含后缀名
     '''
